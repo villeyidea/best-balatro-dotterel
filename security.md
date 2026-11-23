@@ -195,7 +195,7 @@ Use the button in the Quick Start section.
 
 ---
 
-*Balatro · Updated 2026-11-22 · Shared under the MIT License*
+*Balatro · Updated 2026-11-23 · Shared under the MIT License*
 
 
-Updated 2026-11-22.
+Updated 2026-11-23.
